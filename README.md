@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nahinAbrar
 - 👀 I’m interested in web Dev
-- 🌱 I’m currently learning c++ , Java, soon will learn more advanced about web devs
-- 💞️ 
+- 🌱 I’m currently learning bootstrap and PHP soon will start web dev projects 💞️ 
 - 📫 How to reach me: nahin21.aust@gmail.com
 
 <!---
