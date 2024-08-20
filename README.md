@@ -1,4 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nahinAbrar.nahinAbrar" />
+<a href="https://visitcount.itsvg.in">
+  <img align="right" src="https://visitcount.itsvg.in/api?id=nahinAbrar&label=Visitors&color=1&icon=6&pretty=true" />
+</a>
+
 
 <div align="center">
  
