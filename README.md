@@ -1,7 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nahinAbrar.nahinAbrar" />
 
+<div align="center">
+ 
+<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
+
+ </div>
+
+  <hr/>
+
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Moderustic&weight=500&size=32&pause=1000&color=2C3E50&center=true&vCenter=true&width=435&lines=Hi+There!!+%F0%9F%91%8B;I'm+Asm+Nahin;aka+Nahin+Abrar" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Moderustic&weight=500&size=38&pause=1000&color=2C3E50&center=true&vCenter=true&width=435&lines=Hi+There!!+%F0%9F%91%8B;I'm+Asm+Nahin;aka+Nahin+Abrar" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A recent graduate from AUST</h3>
@@ -12,10 +20,12 @@
 <div align="center">
  
  🔭 I’m currently working on a full stack project based on MERN Stack **Learning Management System**
+
+ 🔭 I’m also working on some research on computer vision
  
  🌱 I’m currently learning **MERN, Next.Js, LLM, Transformer Models**
 
-💬 Ask me about **Next.js, TypeScript, MongoDB... or anything [here](https://github.com/nahinAbrar/nahinAbrar/issues)**
+💬 Ask me about **Next.js, TypeScript, MongoDB... or anything [here](https://www.linkedin.com/in/nahin-abrar-nh21)**
 
 ⚡ Fun fact **In "The Matrix," the iconic green code on the screens was actually created using symbols from a sushi cookbook.**
 
@@ -29,7 +39,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://nahinabrar.github.io/nahin-abrar-minimal/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-1BC9C?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -76,8 +86,6 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+
 
 <br/>
