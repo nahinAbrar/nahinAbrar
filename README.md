@@ -22,7 +22,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a full stack project based on MERN Stack **Learning Management System**
+ 🔭 I’m currently working on my portfolio website
 
  🔭 I’m also working on some research on computer vision
  
