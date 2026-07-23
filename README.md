@@ -22,7 +22,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on my portfolio website
 
  🔭 I’m also working on some research on computer vision
  
